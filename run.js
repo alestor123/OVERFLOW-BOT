@@ -1,2 +1,2 @@
 var bot = require('./App');
-bot('token')
+bot(process.env.TOKEN)
