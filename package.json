@@ -1,0 +1,24 @@
+{
+  "name": "overflow-bot",
+  "version": "1.0.0",
+  "description": "This is a simple code for stack overflow discord bot",
+  "main": "App.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/OVERFLOW-BOT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/OVERFLOW-BOT/issues"
+  },
+  "homepage": "https://github.com/alestor123/OVERFLOW-BOT#readme"
+}
